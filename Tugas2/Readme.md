@@ -11,7 +11,7 @@ Hasil Output :
 ![code 1](Images/ResolveIP.png)
 
 FSM diagram :
-
+               "On Progress"
 
 ### Lookup Port
 
@@ -24,7 +24,7 @@ Hasil Program :
 ![code 2](Images/LookupPort.png)
 
 FSM diagram :
-
+                "On Progress"
 
 ### TCP Client
 
@@ -37,7 +37,7 @@ Hasil Program :
 ![code 2](Images/TCPClient.png)
 
 FSM Diagram :
-
+              "On Progress"
 
 ### Raw Sockets and The IPConn Type
 
@@ -49,7 +49,28 @@ Hasil Program :
 
 ![code 3](Images/Raw.png)
 
-FSM Diagram :
+Cara kerja code diatas:
+                        Program di atas digunakan untuk mengeping suatu host
+
+### Multi-Threaded Server
+
+Code Program :
+
+![code 3](Images/Server.png)
+
+Hasil Program :
+
+ Tidak bisa running
+
+### Multi-Threaded Client
+
+Code Program :
+
+![code 3](Images/Server2.png)
+
+Hasil Program :
+
+ Tidak bisa running
 
 
 
