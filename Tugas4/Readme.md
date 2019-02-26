@@ -53,7 +53,7 @@ Screenshoot output contoh program gRPC Flatbuffer :
 
 Finite State Machine gRPC :
 <p align="center">
-    <img width="100%" height="100%" src="img/output5.png">
+    <img width="669" height="231" src="img/output5.png">
 </p>
 
 Dari gambar tersebut, gRPC adalah RPC framework buatan google yang gRPC menggunakan RPC untuk transport dan protobuf di bagian antarmuka-nya. Di gRPC, client dapat secara langsung memanggil *methods* pada sebuah aplikasi server pada sebuah mesin yang berbeda seolah-olah sebagai sebuah objek lokal, itu membuatnya lebih mudah untuk membuat aplikasi layanan terdistribusi
@@ -61,5 +61,5 @@ Dari gambar tersebut, gRPC adalah RPC framework buatan google yang gRPC mengguna
 Perbedaan protocol buffer dan flatbuffer :
 
 <p align="center">
-    <img width="100%" height="100%" src="img/perbedaan.png">
+    <img width="418" height="548" src="img/perbedaan.png">
 </p>
