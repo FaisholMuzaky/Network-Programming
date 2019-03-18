@@ -3,6 +3,7 @@
 ##### Faishol Muzaky - 1301160369
 ##### Hatami Rais Bukhari - 1301154303
 ##### Adetya Ika - 1301164105
+##### Aup Hakim Nurzaman - 1301164395
 
 # JSON Marshal & Unmarshal
 
