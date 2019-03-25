@@ -29,6 +29,13 @@ Data yang dikirim dari server ke browser disebut dengan HTTP response. Jika data
 
 
 ## Web Server Implementation
+
+contoh implemetasi :
 <p align="center">
-  "on progress"
+  <img width="100%" height="100%" src="implementasi.png">
 </p>
+<br></br>
+
+Untuk Menjalankannya :
+```{r, engine='bash', count_lines}
+go run *.go
