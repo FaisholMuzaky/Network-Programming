@@ -32,7 +32,7 @@ Data yang dikirim dari server ke browser disebut dengan HTTP response. Jika data
 
 contoh implemetasi :
 <p align="center">
-  <img width="100%" height="100%" src="implementasi.png">
+  <img width="100%" height="100%" src="implementasi.PNG">
 </p>
 <br></br>
 
