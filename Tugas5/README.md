@@ -4,14 +4,13 @@
 ##### Hatami Rais Bukhari - 1301154303
 ##### Adetya Ika - 1301164105
 ##### Aup Hakim Nurzaman - 1301164395
-<br></br>
-
+<br>
 ## Web Server Design
 
 Finite State Machine Web Server :
 
 <p align="center">
-  <img width="700" height="100" src="FSM.png">
+  <img width="700" height="100" src="fsm.png">
 </p>
 
 cara kerja :
