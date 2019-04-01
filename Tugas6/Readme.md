@@ -40,6 +40,10 @@ contoh implemetasi :
 </p>
 <br></br>
 Warning NET::ERR_CERT_AUTHORITY_INVALID muncul karena mengakses sebuah website menggunakan protokol https yang dimana website ini menggunakan self-signed certificate, bukan menggunakan certificate yang sudah diverifikasi oleh CA.
+<br></br>
 Untuk Menjalankannya :
 ```{r, engine='bash', count_lines}
-go run *.go
+go run main.go 
+
+ketika terjadi error panic: listen tcp :443: bind: permission denied
+sudo go run main.go
