@@ -30,10 +30,13 @@ Data yang dikirim dari server ke browser disebut dengan HTTPS response. Jika dat
 
 contoh implemetasi :
 <p align="center">
-  <img width="100%" height="100%" src="implementasii.PNG">
+  <img width="100%" height="100%" src="implementasi.png">
+</p>
+<p align="center">
+  <img width="100%" height="100%" src="implementasi1.png">
 </p>
 <br></br>
-
+Warning NET::ERR_CERT_AUTHORITY_INVALID muncul ketika mengakses sebuah website menggunakan protokol https yang dimana website ini mengaplikasikan self-signed certificate, bukan menggunakan certificate yang sudah diverifikasi oleh CA.
 Untuk Menjalankannya :
 ```{r, engine='bash', count_lines}
 go run *.go
