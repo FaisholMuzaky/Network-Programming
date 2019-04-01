@@ -14,15 +14,15 @@ Finite State Machine Web Server :
 cara kerja :
 
 <p align="justify">
-Berdasarkan dengan FSM diatas maka, cara kerja dari web server yang kami rancang secara umum adalah sebagai berikut :
+Berdasarkan dengan FSM diatas maka, cara kerja dari web server yang kami rancang secara umum, sebagai berikut :
 </p>
 <p align="justify">
-Pada browser meminta data web page kepada server, maka instruksi permintaan data oleh browser tersebut akan dikemas di dalam TCP yang merupakan protokol transport  dan dikirim ke alamat yang dalam hal ini merupakan protokol berikutnya yaitu HTTP dan atau HTTPS.
+Pada browser meminta data web page kepada server, maka instruksi permintaan data oleh browser tersebut akan dikemas di dalam TCP yang merupakan protokol transport  dan dikirim ke alamat yang dalam hal ini merupakan protokol berikutnya yaitu HTTPS.
 </p>
 <p align="justify">
-Data yang diminta dari browser ke web server disebut dengan HTTP request kemudian akan dicarikan oleh web server di dalam data server. Jika ditemukan, data tersebut akan dikemas oleh web server dalam TCP dan dikirim kembali ke browser untuk ditampilkan.</p>
+Data yang diminta dari browser ke web server disebut dengan HTTPS request kemudian akan dicarikan oleh web server di dalam data server. Jika ditemukan, data tersebut akan dikemas oleh web server dalam TCP dan dikirim kembali ke browser untuk ditampilkan.</p>
 <p align="justify">
-Data yang dikirim dari server ke browser disebut dengan HTTP response. Jika data yang diminta oleh browser tersebut tidak ditemukan oleh web server, maka web server akan menolak permintaan tersebut dan browser akan menampilkan notifikasi Page Not Found atau Error 404.
+Data yang dikirim dari server ke browser disebut dengan HTTPS response. Jika data yang diminta oleh browser tersebut tidak ditemukan oleh web server, maka web server akan menolak permintaan tersebut dan browser akan menampilkan notifikasi Page Not Found atau Error 404.
 </p>
 
 
