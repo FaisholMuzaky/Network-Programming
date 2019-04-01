@@ -43,6 +43,7 @@ Warning NET::ERR_CERT_AUTHORITY_INVALID muncul karena mengakses sebuah website m
 <br></br>
 Untuk Menjalankannya :
 ```{r, engine='bash', count_lines}
+```{r, engine='bash', count_lines}
 go run main.go 
 
 ketika terjadi error panic: listen tcp :443: bind: permission denied
