@@ -8,7 +8,7 @@
 Finite State Machine Web Server :
 
 <p align="center">
-  <img width="700" height="100" src="fsm.png">
+  <img width="700" height="100" src="fsmHTTPS.png">
 </p>
 
 cara kerja :
