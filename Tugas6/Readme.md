@@ -33,18 +33,15 @@ saat program dijalankan :
   <img width="100%" height="100%" src="implementasi2.png">
 </p>
 <br></br>
-
 contoh implemetasi :
 <p align="center">
   <img src="implementasi.png">
 </p>
-<br></br>
 Warning NET::ERR_CERT_AUTHORITY_INVALID muncul karena mengakses sebuah website menggunakan protokol https yang dimana website ini menggunakan self-signed certificate, bukan menggunakan certificate yang sudah diverifikasi oleh CA.
 <br></br>
+
 Untuk Menjalankannya :
 ```{r, engine='bash', count_lines}
-```{r, engine='bash', count_lines}
 go run main.go 
-
 ketika terjadi error panic: listen tcp :443: bind: permission denied
 sudo go run main.go
